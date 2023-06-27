@@ -5,7 +5,7 @@ I'm 牙签 , 19 year | web developers | Self-regulation
 
 ## Skills
 
--  JavaScript , Vue , Pine
+-  JavaScript , Vue , PineScript
 -  SASS , CSS
 
 
