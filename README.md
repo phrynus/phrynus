@@ -9,5 +9,5 @@ I'm 牙签 , 19 year | web developers | Self-regulation
 -  SASS , CSS
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=phrynus&show_icons=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=phrynus&show_icons=true&hide=prs,issues,contribs)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=phrynus&layout=compact)
