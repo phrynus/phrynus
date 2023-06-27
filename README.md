@@ -8,7 +8,7 @@ I'm 牙签 , 19 year | web developers | Self-regulation
 -  JavaScript , Vue , Pine
 -  SASS , CSS
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=phrynus&repo=MistMarker)](https://github.com/anuraghazra/github-readme-stats)
 
 <details>
   <summary><b>GitHub Profile Stat</b></summary>
