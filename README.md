@@ -7,6 +7,7 @@ I'm 牙 , 20 years old | Web developers | Independent | Obesity | Pain | Sleep |
 
 -  JavaScript , Vue , PineScript , SASS , Node , Mongodb
 -  be poor
+-  slimming
 -  24 hours of sleep
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=phrynus&show_icons=true&hide=issues,contribs&hide_border=true&show_owner=false)
