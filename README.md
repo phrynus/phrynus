@@ -1,7 +1,7 @@
 
 # Hey! 👋
 
-I'm 牙签 , 20 year | Web developers | Independent | Obesity | Pain | Sleep | Intp-A
+I'm 牙 , 20 year | Web developers | Independent | Obesity | Pain | Sleep | Intp-A
 
 ## Skills
 
