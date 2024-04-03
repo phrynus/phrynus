@@ -5,7 +5,7 @@ I'm 牙 , 22 years old | Web developers | lonely | Obesity | Pain | Sleep | Intp
 
 ## Skills
 
--  JavaScript , Vue , PineScript , SASS , Node , Mongodb
+-  JavaScript , Vue , PineScript , SASS , Node , Mongodb ，PHP
 -  be poor
 -  slimming
 -  24 hours of sleep
