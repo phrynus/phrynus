@@ -3,6 +3,8 @@
 
 I'm 牙 , 22 years old | Web developers | lonely | Obesity | Pain | Sleep | Intp-A
 
+![:name](http://sayuri.coderkang.eu.org/get/@phrynus?theme=moebooru-h)
+
 ## Skills
 
 -  JavaScript , Vue , PineScript , SASS , Node , Mongodb ，PHP
