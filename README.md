@@ -3,7 +3,7 @@
 
 I'm 牙 , 22 years old | Web developers | lonely | Obesity | Pain | Sleep | Intp-A
 
-![phrynus](https://sayuri.coderkang.eu.org/get/@phrynus?theme=moebooru-h)
+![phrynus](https://moe-counter.glitch.me/get/@phrynus?theme=moebooru-h)
 
 ## Skills
 
