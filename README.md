@@ -1,5 +1,5 @@
 
-# Hey! ![phrynus](https://img.shields.io/badge/phrynus-20B2AA?style=for-the-badge)👋
+![phrynus](https://img.shields.io/badge/phrynus-20B2AA?style=for-the-badge) 👋
 
 I'm 牙 , 22 years old | Web developers | lonely | Obesity | Pain | Sleep | Intp-A
 
