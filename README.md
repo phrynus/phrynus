@@ -1,4 +1,4 @@
-# **Hey! 👋 I'm 清欢**   22 old  ·  INTP-A
+# Hey! 👋 I'm 清欢 · INTP-A
 
 >Pain rots in sleep, no one heard its sigh
 
