@@ -2,7 +2,7 @@
 
 >Pain rots in sleep, no one heard its sigh
 
-![phrynus](https://count.getloli.com/@phrynus?name=phrynus&theme=rule34&padding=4&offset=0&align=center&scale=1&pixelated=1&darkmode=auto)
+![phrynus](https://count.getloli.com/@phrynus?name=phrynus&theme=moebooru-h&padding=4&offset=0&align=center&scale=1&pixelated=1&darkmode=auto)
 
 ### **🛠️ Tech Stack**  
 
