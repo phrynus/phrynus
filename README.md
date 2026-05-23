@@ -6,6 +6,6 @@
 
 ### **🛠️ Tech Stack**  
 
-Develop：`JS`/`TS` · `Vue`/`Nuxt` · `Node`/`Bun` · `Go`
+Develop：`JS / TS`  ·  `Vue / Nuxt`  ·  `Node / Bun`  ·  `Go`
 
 Trade：`PineScript` · `Binance`
