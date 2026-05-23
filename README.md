@@ -1,7 +1,7 @@
 # **Hey! 👋 I'm 清欢 · INTP-A**
 
-> Pain rots in sleep, no one heard its sigh
-> 
+> Night falls, pain rots — unasked, unheard.
+
 ![JS](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TS](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![Vue](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white)
